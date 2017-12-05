@@ -6,6 +6,8 @@
 2. Assignment #2: Fully-Connected Nets, Batch Normalization, Dropout, Convolutional Nets
 3. Assignment #3: Image Captioning with Vanilla RNNs, Image Captioning with LSTMs, Network Visualization, Style Transfer, Generative Adversarial Networks
 
+进度介绍：完成了Assigment1的所有内容，Assigment2中除了PyTorch.ipynb以及tensorflow的最后一个内容，其他的都完成了，Assigment3没有做。
+
 文件介绍：
 
 1. 后缀为ipynb的文件是作业的主要文件，有作业的主要流程、问题和讲解
